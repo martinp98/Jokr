@@ -11,6 +11,7 @@ public class jokr
         jokes.add("Laissez fair");
         jokes.add("Konstitutionelt monarki");
         jokes.add("Absolut monarki");
+        jokes.add("Hvad er sjovere end 24? 25")
 
         double j = jokes.size() * Math.random();
         int jok = (int)j;
